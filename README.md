@@ -16,3 +16,5 @@ This is important because. in here we put all the packages we want to do the pro
 in this file we specifiy the folder strucute and automate it to crate using pythong scrips
 
 `python template.py`
+
+we use setup.py file so we can convert the entire project to a package. (we can do things like put them into pypi)
